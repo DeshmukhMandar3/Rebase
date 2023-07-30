@@ -1,5 +1,5 @@
-let name = "Lobo";
-let brain = "Mister";
+let name = "Drown";
+let brain = "Shaker";
 let country = "India";
 let Lagaan = "Bhuvan";
 let Street = "Barbados";
