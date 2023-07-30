@@ -1,7 +1,9 @@
-let name = "Ishan Kishan";
-let brain = "Lamp";
+let name = "Ruturaj";
+let brain = "Gaikwad";
 let country = "India";
 let Lagaan = "Bhuvan";
 let Street = "Barbados";
 let Arnab = "hello";
 let world = "Jason";
+let Drain = "sessa";
+let Train = "cloun";
